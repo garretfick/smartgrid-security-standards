@@ -9,3 +9,5 @@ A non-authortative list of security standards that apply to deploying software s
 * NERC-CIP v5
 * NIST 800-53
 * NIST 800-82
+
+There are more here: https://selinc.com/solutions/sfci/guidelines/standards/
